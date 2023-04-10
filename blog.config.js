@@ -1,7 +1,7 @@
 const BLOG = {
   title: "Ayden's Blog",
   author: 'Ayden',
-  email: 'hi@aydengen.com',
+  email: 'itxcc420+ayden@gmail.com',
   link: 'https://www.aydengen.com',
   description: "Ayden's Blog.",
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
