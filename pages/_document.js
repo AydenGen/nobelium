@@ -115,7 +115,7 @@ class MyDocument extends Document {
             }
           `}
           </style>
-          <script async src="https://umami.aydengen.com/umami" data-website-id="b6117f5d-58c2-4eef-8309-921f8b80d357"></script>
+          {/* <script async src="https://umami.aydengen.com/umami" data-website-id="b6117f5d-58c2-4eef-8309-921f8b80d357"></script> */}
           <script async src="https://umamid.zeabur.app/umami.js" data-website-id="5cd7abf8-7211-478a-b594-2fb88cd349ff"></script>
         </Head>
         <body className="bg-day dark:bg-night">
